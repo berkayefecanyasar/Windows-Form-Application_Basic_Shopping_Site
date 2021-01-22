@@ -4,6 +4,9 @@
 
 Bu uygulama, günlük hayatta kullandığımız mobil alışveriş uygulamaları baz alınarak oluşturulmuş bir Windows form uygulamasıdır.
 
+![Ekran Alınscsdsdtısı](https://user-images.githubusercontent.com/45373285/105551764-13550480-5d14-11eb-97ec-f369289a91f8.JPG)
+
+
 Bu uygulama, günlük hayatta ürünleri ayırmak için kullandığımız temel kategorileri ve alt kategorileri temel alınarak oluşturulmuştur. Oluşturulan bu alt kategorilere her ürün için birim fiyat ve isim bilgileri girilmiştir. Kullanıcının ürün sayısını girmesi için bir metin kutusu eklenmiştir.
 
 Seçilen ürünün tüm bilgilerini sepet bölümüne yönlendiren butonlar her ürünün altına yerleştirilmiştir. Her yeni ürün eklenmesinin ardından sepet sekmesi üzerinde sepette kaç farklı ürün olduğu bilgisi parantez ile kullanıcıya bildirilir. Kullanıcı ayrıca seçtiği ürünü sepetten çıkarabilir, sepeti temizleyebilir veya sepeti kaydedebilir.

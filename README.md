@@ -9,6 +9,9 @@ Bu uygulama, günlük hayatta kullandığımız mobil alışveriş uygulamaları
 
 Bu uygulama, günlük hayatta ürünleri ayırmak için kullandığımız temel kategorileri ve alt kategorileri temel alınarak oluşturulmuştur. Oluşturulan bu alt kategorilere her ürün için birim fiyat ve isim bilgileri girilmiştir. Kullanıcının ürün sayısını girmesi için bir metin kutusu eklenmiştir.
 
+![Ekran Alıntısı1](https://user-images.githubusercontent.com/45373285/105551837-2a93f200-5d14-11eb-9e68-1f4f448aea08.JPG)
+
+
 Seçilen ürünün tüm bilgilerini sepet bölümüne yönlendiren butonlar her ürünün altına yerleştirilmiştir. Her yeni ürün eklenmesinin ardından sepet sekmesi üzerinde sepette kaç farklı ürün olduğu bilgisi parantez ile kullanıcıya bildirilir. Kullanıcı ayrıca seçtiği ürünü sepetten çıkarabilir, sepeti temizleyebilir veya sepeti kaydedebilir.
 
 Kullanıcı bilgileri, txt uzantılı bir dosyadan alınır ve kaydedilmek istenen alışveriş listesi bir başka txt uzantılı dosya içerisine kaydedilmektedir.

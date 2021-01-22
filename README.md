@@ -14,6 +14,9 @@ Bu uygulama, günlük hayatta ürünleri ayırmak için kullandığımız temel 
 
 Seçilen ürünün tüm bilgilerini sepet bölümüne yönlendiren butonlar her ürünün altına yerleştirilmiştir. Her yeni ürün eklenmesinin ardından sepet sekmesi üzerinde sepette kaç farklı ürün olduğu bilgisi parantez ile kullanıcıya bildirilir. Kullanıcı ayrıca seçtiği ürünü sepetten çıkarabilir, sepeti temizleyebilir veya sepeti kaydedebilir.
 
+![Ekran Alıdntısı](https://user-images.githubusercontent.com/45373285/105551879-3c759500-5d14-11eb-98a6-2221f41a2db1.JPG)
+
+
 Kullanıcı bilgileri, txt uzantılı bir dosyadan alınır ve kaydedilmek istenen alışveriş listesi bir başka txt uzantılı dosya içerisine kaydedilmektedir.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
